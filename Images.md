@@ -2,6 +2,13 @@
 
 Anything and everything related to UIImageView
 
+### [FastImageCache](https://github.com/path/FastImageCache)
+iOS library for quickly displaying images while scrolling
+
+<p align="center">
+    <a href="https://s3.amazonaws.com/fast-image-cache/readme-resources/demo-app-video.html"><img src="https://s3.amazonaws.com/fast-image-cache/readme-resources/demo-app-video-placeholder.png" alt="Fast Image Cache Demo App Video"></a>
+</p>
+
 ### [KVNBoundedImageView](https://github.com/donnellyk/KVNBoundedImageView)
 Given a user's profile pic, this lib attempts to keep the face centered and visible in the UIImageView.
 
