@@ -9,6 +9,8 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Animations and Transitions](AnimationsAndTransitions.md)
 
+### [Calendars](Calendar.md)
+
 ### [Contacts - Viewing, managing, accessing...](Contacts.md)
 
 ### [Graphs and Charts](GraphsCharts.md)
