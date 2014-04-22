@@ -7,3 +7,5 @@ Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zo
 
 ### [Shimmer](https://github.com/facebook/Shimmer)
 Easy way to add a simple shimmering effect to any view in an iOS app, which is particularly useful as an unobtrusive loading indicator.
+
+![](https://raw.githubusercontent.com/facebook/Shimmer/master/shimmer.gif)
