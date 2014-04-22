@@ -7,6 +7,13 @@ Scrollable UINavigationBar that follows the scrolling of a UIScrollView
 
 ![](https://raw.githubusercontent.com/andreamazz/AMScrollingNavbar/master/screenshot.gif)
 
+### [MCSwipeTableViewCell](https://github.com/alikaragoz/MCSwipeTableViewCell)
+Convenient UITableViewCell subclass that implements a swippable content to trigger actions (similar to the Mailbox app).
+
+![](https://raw.github.com/alikaragoz/MCSwipeTableViewCell/master/github-assets/mcswipe-exit.gif)
+
+![](https://raw.github.com/alikaragoz/MCSwipeTableViewCell/master/github-assets/mcswipe-switch.gif)
+
 ### [Mensa](https://github.com/jordanekay/Mensa)
 Provides several techniques for table view and collection view and content management including automatic computation of row height or item size via autolayout
 
