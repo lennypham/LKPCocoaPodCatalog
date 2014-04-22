@@ -14,6 +14,9 @@ Convenient UITableViewCell subclass that implements a swippable content to trigg
 
 ![](https://raw.github.com/alikaragoz/MCSwipeTableViewCell/master/github-assets/mcswipe-switch.gif)
 
+### [MGBoxKit](https://github.com/sobri909/MGBoxKit)
+Simple, quick iOS tables, grids, and more
+
 ### [Mensa](https://github.com/jordanekay/Mensa)
 Provides several techniques for table view and collection view and content management including automatic computation of row height or item size via autolayout
 
