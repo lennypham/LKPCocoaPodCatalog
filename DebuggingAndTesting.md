@@ -1,5 +1,10 @@
 # Debugging and testing frameworks
 
+### [BugshotKit](https://github.com/marcoarment/BugshotKit)
+iOS in-app bug reporting for developers and testers, with annotated screenshots and the console log.
+
+![](https://raw.github.com/marcoarment/BugshotKit/master/example-screenshot.png)
+
 ### [Chisel](https://github.com/facebook/chisel)
 Chisel is a collection of LLDB commands to assist debugging iOS apps.
 
