@@ -13,7 +13,7 @@ A cataloged listing of useful CocoaPods.
 
 ### [Debugging and Testing](DebuggingAndTesting.md)
 
-### [Fonts and Text](Fonts.md)
+### [Fonts, Labels, and Text](Fonts.md)
 
 ### [HUD displays, Alerts, Permissions and Pop-overs](HUDAlertsAndPopovers.md)
 
