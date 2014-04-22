@@ -1,4 +1,4 @@
-# HUDs, Alerts, and Popovers
+# HUDs, Alerts, Permissions, and Popovers
 
 ### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 
@@ -11,3 +11,8 @@ MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an in
 [![](http://dl.dropbox.com/u/378729/MBProgressHUD/5-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/5.png)
 [![](http://dl.dropbox.com/u/378729/MBProgressHUD/6-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/6.png)
 [![](http://dl.dropbox.com/u/378729/MBProgressHUD/7-thumb.png)](http://dl.dropbox.com/u/378729/MBProgressHUD/7.png)
+
+### [ClusterPrePermissions](https://github.com/clusterinc/ClusterPrePermissions)
+Cluster's reusable pre-permissions utility that lets developers ask the users on their own dialog for photos or contacts access, before making the system-based request.
+
+![](http://f.cl.ly/items/2I1V1R3b3q3A3H3y3u18/new-1.jpg)
