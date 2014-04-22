@@ -2,6 +2,11 @@
 
 Libraries for customizing collection views, table views, and cells.
 
+### [AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar)
+Scrollable UINavigationBar that follows the scrolling of a UIScrollView
+
+![](https://raw.githubusercontent.com/andreamazz/AMScrollingNavbar/master/screenshot.gif)
+
 ### [Mensa](https://github.com/jordanekay/Mensa)
 Provides several techniques for table view and collection view and content management including automatic computation of row height or item size via autolayout
 
