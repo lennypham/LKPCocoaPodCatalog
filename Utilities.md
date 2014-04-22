@@ -8,6 +8,9 @@ A great lib that provides blocks support for UIAlertVIew, UIControl, UIGestureRe
 ### [DateTools](https://github.com/MatthewYork/DateTools)
 DateTools was written to streamline date and time handling in Objective-C.
 
+### [GRMustache](https://github.com/groue/GRMustache)
+Flexible and production-ready Mustache templates for MacOS Cocoa and iOS
+
 ### [MHHabitat](https://github.com/mhupman/MHHabitat)
 MHHabitat is a library used to differentiate between build configurations of an iOS application at runtime
 
