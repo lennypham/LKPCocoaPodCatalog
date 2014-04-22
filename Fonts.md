@@ -22,6 +22,8 @@ A drop-in replacement for UILabel, which automatically adds a scrolling marquee 
 ### [PSPDFTextView](https://github.com/steipete/PSPDFTextView)
 A subclass of UITextView that fixes the most glaring problems from iOS 7 and 7.1.
 
+![](https://raw.githubusercontent.com/steipete/PSPDFTextView/master/Example/fixed.gif)
+
 ### [Shimmer](https://github.com/facebook/Shimmer)
 Easy way to add a simple shimmering effect to any view in an iOS app, which is particularly useful as an unobtrusive loading indicator.
 
