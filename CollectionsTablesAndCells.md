@@ -2,6 +2,9 @@
 
 Libraries for customizing collection views, table views, and cells.
 
+### [Mensa](https://github.com/jordanekay/Mensa)
+Provides several techniques for table view and collection view and content management including automatic computation of row height or item size via autolayout
+
 ### [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
 Parallax effect for the cells inside a UICollectionView. 
 
