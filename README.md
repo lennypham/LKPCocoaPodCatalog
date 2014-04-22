@@ -9,6 +9,8 @@ A cataloged listing of useful CocoaPods.
 
 ### [Animations and Transitions](AnimationsAndTransitions.md)
 
+### [Fonts and Text](Fonts.md)
+
 ### [Images](Images.md)
 
 ### [JSON](JSON.md)
