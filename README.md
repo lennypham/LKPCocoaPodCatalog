@@ -11,6 +11,8 @@ A cataloged listing of useful CocoaPods.
 
 ### [Collection views, table views, and cells](CollectionsTablesAndCells.md)
 
+### [Debugging and Testing](DebuggingAndTesting.md)
+
 ### [Fonts and Text](Fonts.md)
 
 ### [HUD displays, Alerts, and Pop-overs](HUDAlertsAndPopovers.md)
