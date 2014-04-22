@@ -15,7 +15,7 @@ A cataloged listing of useful CocoaPods.
 
 ### [Fonts and Text](Fonts.md)
 
-### [HUD displays, Alerts, and Pop-overs](HUDAlertsAndPopovers.md)
+### [HUD displays, Alerts, Permissions and Pop-overs](HUDAlertsAndPopovers.md)
 
 ### [Images](Images.md)
 
