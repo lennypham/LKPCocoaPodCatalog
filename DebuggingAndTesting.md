@@ -8,6 +8,9 @@ iOS in-app bug reporting for developers and testers, with annotated screenshots 
 ### [Chisel](https://github.com/facebook/chisel)
 Chisel is a collection of LLDB commands to assist debugging iOS apps.
 
+### [KIF](https://github.com/kif-framework/KIF)
+Keep It Functional - An iOS Functional Testing Framework from Square
+
 ### [PonyDebugger](https://github.com/square/PonyDebugger)
 Remote network and data debugging for your native iOS app using Chrome Developer Tools
 
