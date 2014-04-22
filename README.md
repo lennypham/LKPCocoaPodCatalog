@@ -1,7 +1,7 @@
 LKPCocoaPodCatalog
 ==================
 
-A cataloged listing of useful CocoaPods.
+A cataloged listing of useful CocoaPods a few libs that aren't, though why anyone wouldn't create a podspec is beyond me.
 
 ## Table of Contents
 
