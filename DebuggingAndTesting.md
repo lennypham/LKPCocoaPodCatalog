@@ -11,6 +11,9 @@ Chisel is a collection of LLDB commands to assist debugging iOS apps.
 ### [KIF](https://github.com/kif-framework/KIF)
 Keep It Functional - An iOS Functional Testing Framework from Square
 
+### [Kiwi](https://github.com/allending/Kiwi)
+Kiwi is a Behavior Driven Development library for iOS development.
+
 ### [PonyDebugger](https://github.com/square/PonyDebugger)
 Remote network and data debugging for your native iOS app using Chrome Developer Tools
 
