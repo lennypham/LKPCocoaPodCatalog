@@ -13,6 +13,8 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Collection views, table views, and cells](CollectionsTablesAndCells.md)
 
+### [CoreData](CoreData.md)
+
 ### [Debugging and Testing](DebuggingAndTesting.md)
 
 ### [Fonts, Labels, and Text](Fonts.md)
