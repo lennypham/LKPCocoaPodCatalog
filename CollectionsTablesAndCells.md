@@ -1,4 +1,4 @@
-# UICollectionView, UITableView, and Cells
+# UICollectionView, UITableView, ScrollViews and Cells
 
 Libraries for customizing collection views, table views, and cells.
 
