@@ -29,6 +29,8 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [JSON](JSON.md)
 
+### [Navigation](Navigation.md)
+
 ### [Networking](Networking.md)
 
 ### [Utilities](Utilities.md)
