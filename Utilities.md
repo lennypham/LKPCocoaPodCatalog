@@ -14,6 +14,9 @@ DateTools was written to streamline date and time handling in Objective-C.
 ### [GRMustache](https://github.com/groue/GRMustache)
 Flexible and production-ready Mustache templates for MacOS Cocoa and iOS
 
+### [Mantle](https://github.com/Mantle/Mantle)
+Mantle makes it easy to write a simple model layer for your Cocoa or Cocoa Touch application.
+
 ### [MHHabitat](https://github.com/mhupman/MHHabitat)
 MHHabitat is a library used to differentiate between build configurations of an iOS application at runtime
 
