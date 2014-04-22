@@ -8,5 +8,8 @@ A great lib that provides blocks support for UIAlertVIew, UIControl, UIGestureRe
 ### [DateTools](https://github.com/MatthewYork/DateTools)
 DateTools was written to streamline date and time handling in Objective-C.
 
+### [PromiseKit](https://github.com/mxcl/PromiseKit)
+A collection of helper functions that make the typical asynchronous patterns we use in iOS development easier.
+
 ### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 An obj-c framework for Functional Reactive Programming
