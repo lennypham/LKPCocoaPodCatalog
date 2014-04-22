@@ -8,6 +8,9 @@ iOS in-app bug reporting for developers and testers, with annotated screenshots 
 ### [Chisel](https://github.com/facebook/chisel)
 Chisel is a collection of LLDB commands to assist debugging iOS apps.
 
+### [Frank](https://github.com/moredip/Frank)
+Automated acceptance tests for native iOS apps. It allows you to write automated acceptance tests which verify the functionality of your native iOS app.
+
 ### [KIF](https://github.com/kif-framework/KIF)
 Keep It Functional - An iOS Functional Testing Framework from Square
 
