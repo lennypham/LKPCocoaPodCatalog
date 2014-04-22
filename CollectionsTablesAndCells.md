@@ -2,6 +2,13 @@
 
 Libraries for customizing collection views, table views, and cells.
 
+### [MJParallaxCollectionView](https://github.com/mayuur/MJParallaxCollectionView)
+Parallax effect for the cells inside a UICollectionView. 
+
+Video Below:
+
+[![Video](https://raw.githubusercontent.com/mayuur/MJParallaxCollectionView/master/Screenshot.png)](https://www.youtube.com/watch?v=1K8w1M6FL8k&feature=youtu.be)
+
 ### [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 
 Easy-to-use UITableViewCell subclass that implements a swipeable content view which exposes utility buttons (similar to iOS 7 Mail Application)
