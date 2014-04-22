@@ -11,7 +11,7 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Graphs and Charts](GraphsCharts.md)
 
-### [Collection views, table views, and cells](CollectionsTablesAndCells.md)
+### [Collection views, table views, scroll views and cells](CollectionsTablesAndCells.md)
 
 ### [CoreData](CoreData.md)
 
