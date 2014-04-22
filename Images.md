@@ -1,6 +1,6 @@
 # Images
 
-Anything and everything related to UIImageView
+Anything and everything related to Audio, Video, Photos, and Images
 
 ### [FastImageCache](https://github.com/path/FastImageCache)
 iOS library for quickly displaying images while scrolling
