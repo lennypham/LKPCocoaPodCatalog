@@ -18,6 +18,9 @@ Easy way to add a simple shimmering effect to any view in an iOS app, which is p
 
 ![](https://raw.githubusercontent.com/facebook/Shimmer/master/shimmer.gif)
 
+### [SSDynamicText](https://github.com/splinesoft/SSDynamicText)
+UILabel/TextField/TextView subclasses that support custom fonts with iOS 7's dynamic text sizes.
+
 ### [ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor)
 
 Crazy cool Rich Text WYSIWYG editor for iOS
