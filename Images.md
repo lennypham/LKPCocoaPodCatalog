@@ -20,6 +20,9 @@ Given a user's profile pic, this lib attempts to keep the face centered and visi
 
 ![After](https://raw.github.com/donnellyk/KVNBoundedImageView/master/Assets/enabled.png)
 
+### [PBJVision](https://github.com/piemonte/PBJVision)
+iOS camera engine, features touch-to-record video, slow motion video, and photo capture
+
 ### [SDWebImage](https://github.com/rs/SDWebImage)
 
 Asynchronous image downloads, caching, and a whole bunch of other stuff.
