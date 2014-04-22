@@ -16,3 +16,6 @@ A collection of helper functions that make the typical asynchronous patterns we 
 
 ### [ReactiveCocoa](https://github.com/ReactiveCocoa/ReactiveCocoa)
 An obj-c framework for Functional Reactive Programming
+
+### [ReactiveViewModel](https://github.com/ReactiveCocoa/ReactiveViewModel)
+Model-View-ViewModel using ReactiveCocoa
