@@ -7,6 +7,8 @@ A cataloged listing of useful CocoaPods.
 
 ### [Animations and Transitions](AnimationsAndTransitions.md)
 
+### [Images](Images.md)
+
 ### [Networking](Networking.md)
 
 ### [Utilities](Utilities.md)
