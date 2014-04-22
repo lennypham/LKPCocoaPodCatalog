@@ -15,10 +15,6 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Contacts - Viewing, managing, accessing...](Contacts.md)
 
-### [Forms and Form Validation](Forms.md)
-
-### [Graphs and Charts](GraphsCharts.md)
-
 ### [Collection views, table views, scroll views and cells](CollectionsTablesAndCells.md)
 
 ### [CoreData](CoreData.md)
@@ -26,6 +22,10 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 ### [Debugging and Testing](DebuggingAndTesting.md)
 
 ### [Fonts, Labels, and Text](Fonts.md)
+
+### [Forms and Form Validation](Forms.md)
+
+### [Graphs and Charts](GraphsCharts.md)
 
 ### [HUD displays, Alerts, Permissions and Pop-overs](HUDAlertsAndPopovers.md)
 
