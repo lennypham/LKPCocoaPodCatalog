@@ -5,6 +5,8 @@ A cataloged listing of useful CocoaPods.
 
 ## Table of Contents
 
+### [Analytics](Analytics.md)
+
 ### [Animations and Transitions](AnimationsAndTransitions.md)
 
 ### [Images](Images.md)
