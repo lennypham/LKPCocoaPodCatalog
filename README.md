@@ -9,6 +9,8 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Animations and Transitions](AnimationsAndTransitions.md)
 
+### [Contacts - Viewing, managing, accessing...](Contacts.md)
+
 ### [Graphs and Charts](GraphsCharts.md)
 
 ### [Collection views, table views, scroll views and cells](CollectionsTablesAndCells.md)
