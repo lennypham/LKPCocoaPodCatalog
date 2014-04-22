@@ -13,6 +13,9 @@ Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zo
 ### [ios-fontawesome](https://github.com/alexdrone/ios-fontawesome)
 Another iOS font awesome library
 
+### [MarqueeLabel](https://github.com/cbpowell/MarqueeLabel)
+A drop-in replacement for UILabel, which automatically adds a scrolling marquee effect when the label's text is larger than the specified frame.
+
 ### [Shimmer](https://github.com/facebook/Shimmer)
 Easy way to add a simple shimmering effect to any view in an iOS app, which is particularly useful as an unobtrusive loading indicator.
 
