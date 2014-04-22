@@ -2,6 +2,9 @@
 
 A collection of utility classes used in objective-c
 
+### [BlocksKit](https://github.com/zwaldowski/BlocksKit)
+A great lib that provides blocks support for UIAlertVIew, UIControl, UIGestureRecognizer, and much more...
+
 ### [DateTools](https://github.com/MatthewYork/DateTools)
 DateTools was written to streamline date and time handling in Objective-C.
 
