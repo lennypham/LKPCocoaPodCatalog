@@ -9,7 +9,7 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Animations and Transitions](AnimationsAndTransitions.md)
 
-### [Audio, Video, and Images](Images.md)
+### [Audio, Video, Photos, and Images](Images.md)
 
 ### [Calendars](Calendar.md)
 
