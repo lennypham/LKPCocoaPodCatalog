@@ -25,7 +25,7 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [HUD displays, Alerts, Permissions and Pop-overs](HUDAlertsAndPopovers.md)
 
-### [Images](Images.md)
+### [Audio, Video, and Images](Images.md)
 
 ### [JSON](JSON.md)
 
