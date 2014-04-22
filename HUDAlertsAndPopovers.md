@@ -1,5 +1,10 @@
 # HUDs, Alerts, Permissions, and Popovers
 
+### [CRToast](https://github.com/cruffenach/CRToast)
+A "facebook" style alert notification view lib
+
+![](https://github.com/cruffenach/CRToast/blob/master/screenshots/demo.gif?raw=true)
+
 ### [MBProgressHUD](https://github.com/jdg/MBProgressHUD)
 
 MBProgressHUD is an iOS drop-in class that displays a translucent HUD with an indicator and/or labels while work is being done in a background thread. The HUD is meant as a replacement for the undocumented, private UIKit UIProgressHUD with some additional features. 
