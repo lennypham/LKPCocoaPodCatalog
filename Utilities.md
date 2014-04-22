@@ -8,6 +8,9 @@ A great lib that provides blocks support for UIAlertVIew, UIControl, UIGestureRe
 ### [DateTools](https://github.com/MatthewYork/DateTools)
 DateTools was written to streamline date and time handling in Objective-C.
 
+### [MHHabitat](https://github.com/mhupman/MHHabitat)
+MHHabitat is a library used to differentiate between build configurations of an iOS application at runtime
+
 ### [MKUnits](https://github.com/michalkonturek/MKUnits)
 Unit conversion lib for iOS
 
