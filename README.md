@@ -9,6 +9,8 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Animations and Transitions](AnimationsAndTransitions.md)
 
+### [Audio, Video, and Images](Images.md)
+
 ### [Calendars](Calendar.md)
 
 ### [Contacts - Viewing, managing, accessing...](Contacts.md)
@@ -24,8 +26,6 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 ### [Fonts, Labels, and Text](Fonts.md)
 
 ### [HUD displays, Alerts, Permissions and Pop-overs](HUDAlertsAndPopovers.md)
-
-### [Audio, Video, and Images](Images.md)
 
 ### [JSON](JSON.md)
 
