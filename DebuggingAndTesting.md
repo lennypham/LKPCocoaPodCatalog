@@ -1,5 +1,8 @@
 # Debugging and testing frameworks
 
+### [Chisel](https://github.com/facebook/chisel)
+Chisel is a collection of LLDB commands to assist debugging iOS apps.
+
 ### [PonyDebugger](https://github.com/square/PonyDebugger)
 Remote network and data debugging for your native iOS app using Chrome Developer Tools
 
