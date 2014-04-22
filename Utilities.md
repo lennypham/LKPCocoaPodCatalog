@@ -8,6 +8,9 @@ A great lib that provides blocks support for UIAlertVIew, UIControl, UIGestureRe
 ### [DateTools](https://github.com/MatthewYork/DateTools)
 DateTools was written to streamline date and time handling in Objective-C.
 
+### [MKUnits](https://github.com/michalkonturek/MKUnits)
+Unit conversion lib for iOS
+
 ### [PromiseKit](https://github.com/mxcl/PromiseKit)
 A collection of helper functions that make the typical asynchronous patterns we use in iOS development easier.
 
