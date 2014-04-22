@@ -7,6 +7,9 @@ GLOW UI Digital fonts
 
 ![](https://camo.githubusercontent.com/03df3ab5e9134b5a19e286ad3b705e5050a7cb74/687474703a2f2f7374617469632e73717561726573706163652e636f6d2f7374617469632f3531633263353339653462303332616164373035306632652f742f3532383063373262653462303565626235386333323537392f313338343137313330383839312f53637265656e73352e706e673f666f726d61743d3135303077)
 
+### [FontAwesomeIconFactory](https://github.com/nschum/FontAwesomeIconFactory)
+A factory for turning Font Awesome icons into images for user interface controls.
+
 ### [FontAwesomeKit](https://github.com/PrideChung/FontAwesomeKit)
 Icon font library for iOS. Currently supports Font-Awesome, Foundation icons, Zocial, and ionicons.
 
