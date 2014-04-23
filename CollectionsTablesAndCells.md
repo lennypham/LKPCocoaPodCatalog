@@ -27,6 +27,11 @@ Video Below:
 
 [![Video](https://raw.githubusercontent.com/mayuur/MJParallaxCollectionView/master/Screenshot.png)](https://www.youtube.com/watch?v=1K8w1M6FL8k&feature=youtu.be)
 
+### [NMPaginator](https://github.com/nmondollot/NMPaginator)
+NMPaginator is a simple Objective-C class that handles table pagination for you.
+
+![](https://camo.githubusercontent.com/6946cbce61a95581e9539442c24f1a65b50b91a8/687474703a2f2f662e636c2e6c792f6974656d732f32453069343033563430336e316a32793143315a2f4e4d506167696e61746f725f73637265656e73686f742e706e67)
+
 ### [SWTableViewCell](https://github.com/CEWendel/SWTableViewCell)
 
 Easy-to-use UITableViewCell subclass that implements a swipeable content view which exposes utility buttons (similar to iOS 7 Mail Application)
