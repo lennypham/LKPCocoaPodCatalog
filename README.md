@@ -23,7 +23,7 @@ A cataloged listing of useful CocoaPods a few libs that aren't, though why anyon
 
 ### [Fonts, Labels, and Text](Fonts.md)
 
-### [Forms and Form Validation](Forms.md)
+### [Input, Forms, and Form Validation](Forms.md)
 
 ### [Graphs and Charts](GraphsCharts.md)
 
